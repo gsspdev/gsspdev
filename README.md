@@ -2,6 +2,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsspdev&show_icons=true&theme=gruvbox&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
+<<p align="center">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=gsspdev&repo=ytdx">
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=gsspdev=pixel-weather">
+</p>
+
 <!--
 
 **gsspdev/gsspdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
