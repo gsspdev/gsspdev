@@ -1,38 +1,23 @@
 <p align="center">
   <p align="left">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Futura&duration=4600&pause=2400&color=FABD2F&vCenter=true&repeat=false&width=435&lines=%5C%5C+code+is+art.+this+is+a+gallery..." alt="Typing SVG" /></a>
-    <a href="https://git.io/typing-svg"><img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Futura&duration=4600&pause=2400&color=FABD2F&vCenter=true&repeat=false&width=435&lines=this+is+a+gallery..." alt="Typing SVG" /></a>
-    
-      <a href="https://git.io/typing-svg"><img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Futura&duration=4600&pause=2400&color=FABD2F&vCenter=true&repeat=false&width=435&lines=this+is+a+gallery..." alt="Typing SVG" /></a>
-      <a href="https://git.io/typing-svg"><img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Futura&duration=4600&pause=2400&color=FABD2F&vCenter=true&repeat=false&width=435&lines=this+is+a+gallery..." alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Futura&duration=4600&pause=2400&color=FABD2F&vCenter=true&repeat=false&width=435&lines=%5C%5C+code+is+art..." alt="Typing SVG" />
+    </a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Futura&duration=4600&pause=4600&color=FABD2F&vCenter=true&repeat=false&width=435&lines=%5C%5C+this+is+a+gallery..." alt="Typing SVG" />
+    </a>
   </p>
-  </p>
-  <p align="right">
-  <p align="right">
-    <a><img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=gsspdev&show_icons=true&theme=gruvbox&bg_color=00000000&hide_border=true">
-    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=gsspdev&show_icons=true&theme=gruvbox&bg_color=00000000&hide_border=true">
-     </a>
-  </p>
-  </p>
-</p>
-</p>
-<p align="center">
-
 </p>
 <p>
+</p>
+<p align="center">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=gsspdev&theme=gruvbox&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-  <a href="https://www.buymeacoffee.com/gsspdev"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="gsspdev" /></a>
+  <p align="center">
+    <a href="https://www.buymeacoffee.com/gsspdev"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="gsspdev" /></a>
+  </p>
 </p>
 
-<!-- <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=gsspdev&repo=ytdx">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=gsspdev=pixel-weather">
-</p> -->
-
-
-<!-- (https://git.io/typing-svg) -->
+<!-- <!<!-- (https://git.io/typing-svg) -->
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
