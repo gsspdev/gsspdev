@@ -5,8 +5,7 @@
       <a href="https://git.io/typing-svg"><img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Futura&duration=4600&pause=2400&color=FABD2F&vCenter=true&repeat=false&width=435&lines=this+is+a+gallery..." alt="Typing SVG" /></a>
   </p>
   <p align="right">
-    <a><img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=gsspdev&show_icons=true&theme=gruvbox&bg_color=00000000&hide_border=true">
-     </a>
+    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=gsspdev&show_icons=true&theme=gruvbox&bg_color=00000000&hide_border=true">
   </p>
 </p>
 <p align="center">
