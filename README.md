@@ -9,29 +9,18 @@
 <p>
 </p>
 <p align="center">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=gsspdev&theme=gruvbox&hide_border=true&background=FFFFFF00">
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=gsspdev&theme=gruvbox&hide_border=true&border_radius=4&card_width=540&background=FFFFFF00">
   <br>
-  <br>
-  <p align="center">
-    <a href="https://www.buymeacoffee.com/gsspdev"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="gsspdev" /></a>
-  </p>
 </p>
 
-<!-- <!<!-- (https://git.io/typing-svg) -->
-<!-- (https://github.com/anuraghazra/github-readme-stats) -->
+## 🧑‍💻 Swift/C++/Rust/Python/Clojure
+##### - Synths and wave manipulations 🎛️
+##### - i love dsp, music, iOS, and videogames
+##### - Reach Me: dev@gssp.io 📫 
+##### - on twitter: @gsspmusic 🐦
 
-<!--
-
-**gsspdev/gsspdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## dev setup--
+- ##### M2 Macbook Pro  💻
+- ##### Gruvbox 🕺 🪩
+- ##### Sennheiser 650s 🎧
+- ##### NVChad - https://github.com/NvChad/NvChadm 🦾
