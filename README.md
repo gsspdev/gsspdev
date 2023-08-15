@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Futura&duration=8400&pause=2400&color=fabd2f&vCenter=true&repeat=false&width=435&lines=%5C%5C+code+is+art.+this+is+a+gallery...)](https://git.io/typing-svg)
 
 <p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsspdev&show_icons=true&theme=gruvbox&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=gsspdev&show_icons=true&theme=gruvbox&bg_color=00000000")]>
 </p>
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gsspdev&layout=compact&hide_border=true&theme=gruvbox&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
@@ -15,6 +15,8 @@
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=gsspdev&repo=ytdx">
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=gsspdev=pixel-weather">
 </p> -->
+
+<!-- (https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 
