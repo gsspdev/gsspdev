@@ -17,7 +17,6 @@
 ##### - Synths and wave manipulations 🎛️
 ##### - i love dsp, music, iOS, and videogames
 ##### - Reach Me: dev@gssp.io 📫 
-##### - on twitter: @gsspmusic 🐦
 
 ## dev setup--
 - ##### M2 Macbook Pro  💻
