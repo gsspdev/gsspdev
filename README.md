@@ -1,8 +1,10 @@
 <p align="center">
-    <a align="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Futura&duration=4600&pause=2400&color=FABD2F&vCenter=true&repeat=false&width=435&lines=%5C%5C+code+is+art..." alt="Typing SVG" />
-    </a>
-    <a align="right" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Futura&duration=4600&pause=4600&color=FABD2F&vCenter=true&repeat=false&width=435&lines=%5C%5C+this+is+a+gallery..." alt="Typing SVG" />
-    </a>
+    <p align="left>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Futura&duration=4600&pause=2400&color=FABD2F&vCenter=true&repeat=false&width=435&lines=%5C%5C+code+is+art..." alt="Typing SVG" />
+    <p align="left>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Futura&duration=4600&pause=4600&color=FABD2F&vCenter=true&repeat=false&width=435&lines=%5C%5C+this+is+a+gallery..." alt="Typing SVG" />
+    <p align="left>
+    </p>
 </p>
 <p>
 </p>
