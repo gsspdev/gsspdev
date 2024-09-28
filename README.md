@@ -43,8 +43,8 @@ nline-block;">
     </tr>
   </table>
   
-## - Synths and wave manipulations 🎛️
-### - dsp, music, iOS, videogames
+## Synths and wave manipulations 🎛️
+### dsp/music/iOS/games
 
 ## dev setup--
 - ##### M2 Macbook Pro  💻
