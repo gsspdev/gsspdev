@@ -8,7 +8,7 @@
 </p>
 <p>
 </p>
-<p align="center">
+<p align="right">
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=gsspdev&theme=gruvbox&hide_border=true&border_radius=4&card_width=540&background=FFFFFF00">
   <br>
 </p>
