@@ -13,6 +13,7 @@
   <br>
 </p>
 
+<p align="center">
 <table border="1" cellpadding="10" cellspacing="0">
     <tr>
       <td><strong>Languages</strong></td>
@@ -43,6 +44,7 @@ nline-block;">
       </tr>
     </tr>
   </table>
+</p>
   
 ##### - Synths and wave manipulations 🎛️
 ##### - i love dsp, music, iOS, and videogames
