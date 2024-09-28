@@ -12,9 +12,7 @@
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=gsspdev&theme=gruvbox&hide_border=true&border_radius=4&card_width=540&background=FFFFFF00">
   <br>
 </p>
-
-<p align="center">
-<table border="1" cellpadding="10" cellspacing="0">
+<table align="center" border="1" cellpadding="10" cellspacing="0">
     <tr>
       <td><strong>Languages</strong></td>
       <td>
@@ -44,7 +42,6 @@ nline-block;">
       </tr>
     </tr>
   </table>
-</p>
   
 ##### - Synths and wave manipulations 🎛️
 ##### - i love dsp, music, iOS, and videogames
