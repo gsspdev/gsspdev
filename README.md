@@ -45,7 +45,7 @@ nline-block;">
   
 ## Synths and wave manipulations 🎛️
 
-## dev setup--
+## dev setup
 - ##### M2 Macbook Pro  💻
 - ##### Gruvbox 🕺 🪩
 - ##### Sennheiser 650s 🎧
