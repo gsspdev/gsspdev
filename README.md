@@ -43,12 +43,13 @@ nline-block;">
     </tr>
   </table>
   
-##### - Synths and wave manipulations 🎛️
-##### - i love dsp, music, iOS, and videogames
-##### - Reach Me: dev@gssp.io 📫 
+## - Synths and wave manipulations 🎛️
+### - dsp, music, iOS, videogames
 
 ## dev setup--
 - ##### M2 Macbook Pro  💻
 - ##### Gruvbox 🕺 🪩
 - ##### Sennheiser 650s 🎧
 - ##### NVChad - https://github.com/NvChad/NvChad 🦾
+
+##### - Reach Me: dev@gssp.io 📫 
