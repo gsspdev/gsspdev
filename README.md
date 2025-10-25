@@ -7,7 +7,7 @@
     </p>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MitkoVtori&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsspdev&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gsspdev&theme=gruvbox-duo&hide_border=true&border_radius=4&card_width=540)](https://git.io/streak-stats)
 
 # Benjamin Hampikian
